@@ -8,6 +8,10 @@ import java.util.stream.Collectors;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        //String[] input = Arrays.stream(sc.nextLine().split("\\s+"));
+        String input = sc.nextLine();
+        String i1nput = sc.nextLine();
+        String i2nput = sc.nextLine();
+        int n = Integer.parseInt(sc.nextLine());
+        
     }
 }
